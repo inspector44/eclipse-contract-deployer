@@ -14,6 +14,7 @@ This repository provides a Docker environment for Eclipse Builders, designed to 
 
 ### Prerequisites
 
+- Make sure you have at least 0.3 eth sepolia faucet before doing the steps below.
 - Ensure Docker is installed on your system.
 - Familiarity with Docker, Ethereum, Solana, and smart contract concepts is recommended.
 
